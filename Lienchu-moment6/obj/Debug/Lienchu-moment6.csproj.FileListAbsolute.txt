@@ -1,0 +1,13 @@
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\bin\Debug\Lienchu-moment6.exe.config
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\bin\Debug\Lienchu-moment6.exe
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\bin\Debug\Lienchu-moment6.pdb
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu-moment6.csproj.AssemblyReference.cache
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu-moment6.csproj.SuggestedBindingRedirects.cache
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu_moment6.Navigation.resources
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu_moment6.NewCustomer.resources
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu_moment6.Properties.Resources.resources
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu-moment6.csproj.GenerateResource.cache
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu-moment6.csproj.CoreCompileInputs.cache
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu-moment6.exe
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu-moment6.pdb
+C:\Users\liarn\source\repos\programmerning2\lienchu-moment6\Lienchu-moment6\obj\Debug\Lienchu_moment6.FillOrCancel.resources
